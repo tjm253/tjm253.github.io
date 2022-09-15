@@ -1,8 +1,8 @@
 ---
 title:  "Heart Cryopreservation"
 mathjax: true
-author: katie
-category: jupyter
+author: Tayber
+category: research
 ---
 
 ## Overview
