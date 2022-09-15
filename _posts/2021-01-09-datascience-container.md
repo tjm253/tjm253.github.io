@@ -1,5 +1,5 @@
 ---
-title:  "How to analyze data with the jupyter/datascience-notebook"
+title:  "Heart Cryopreservation"
 mathjax: true
 author: katie
 category: jupyter
