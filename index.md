@@ -3,8 +3,8 @@ layout: page
 title: ""
 ---
 
-I'm an assistant professor in the [Linguistics Department](https://www.ling.upenn.edu) at the University of Pennsylvania and the director of the [Child Language Lab](http://childlanglab.com/). 
+I'm a Mechanincal Engineering student at the [Univerisity of Washington Tacoma](https://www.tacoma.uw.edu/set/programs/undergrad/me). I recieved my Associate's in Science from Pierce College with a focus on Mechanical Engineering in 2021.
 
-I teach graduate seminars in [psycholinguistics](/ling607) and [neurolinguistics](/neurolinguistics) and an undergraduate course in [language and the brain](/ling104). Occasionally, I also teach [LING 1](/ling001), Penn's Introduction to Linguistics.
+Engineering is my passion and hope to one day to become a PE in a field where creativity and knowlegde in engineering principles are sought. I look forward to new challenges and methods in improving my abilities, skills and character.
 
-This semester I'm teaching a new undergraduate course (with Colin Twomey): [Data Science for Studying Language and the Mind](/ling172).
+Many new projects are in the works to be done over this next school year and hope to update you on the progress here on this website.
