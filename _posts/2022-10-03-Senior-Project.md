@@ -7,4 +7,4 @@ category: school-project
 
 ## Status
 
-Starting fall of 2022.
+Waiting for assignment
