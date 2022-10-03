@@ -7,7 +7,7 @@ category: research
 
 ## Overview
 
-This research is oversaw by Dr. Zhiquan Shu Mechanical Engineering professor at the University of Washington.
+This research is overseen by Dr. Zhiquan Shu Mechanical Engineering professor at the University of Washington.
 
 ## Purpose
 
