@@ -15,4 +15,6 @@ To find information and to summarize the present research in heart valve preserv
 
 ## Status
 
-Researching and compiling information.
+~~Research phase~~
+
+Rough draft phase
