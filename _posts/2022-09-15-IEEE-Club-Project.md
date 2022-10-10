@@ -7,7 +7,7 @@ category: club-project
 
 ## Overview and Purpose
 
-IEEE Club combines the efforts of engineering students from multiple disciplines to build a function machine. The project will include designing and constructing a machine for either an IEEE competition or challenge.
+IEEE Club combines the efforts of engineering students from multiple disciplines to build a functioning machine or robot. The project will include designing and constructing a machine for either an IEEE competition or challenge.
 
 ## Role
 
