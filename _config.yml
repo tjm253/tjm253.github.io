@@ -17,7 +17,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
-  - {url: "/resume_TayberMcMullen_091422.pdf", title: CV}
+  - {url: "/resume_TayberMcMullen_Discord_101022.pdf", title: CV}
   # - {url: "http://childlanglab.com", title: Lab}
   - {file: "blog.md", title: Projects}  # added "title: Projects"
 
