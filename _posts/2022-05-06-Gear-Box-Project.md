@@ -1,5 +1,5 @@
 ---
-title:  "Gear Box Project for Mechanical Design"
+title:  "Gear Box for Mechanical Design"
 mathjax: true
 author: Tayber
 category: project
