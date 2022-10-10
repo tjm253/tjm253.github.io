@@ -7,12 +7,12 @@ category: club-project
 
 ## Overview and Purpose
 
-IEEE Club combines the efforts of engineering students from multiple disciplines to build a function machine. The machine to be developed is in the planning phase and to be completed in the spring of 2023.
+IEEE Club combines the efforts of engineering students from multiple disciplines to build a function machine. The project will include designing and constructing a machine for either an IEEE competition or challenge.
 
 ## Role
 
-Officer. Elected and assigned to collaborate with other team members and leaders.
+Officer - elected and assigned to collaborate and lead with other elected representatives to serve the club and its members. The club has more than 100 members.
 
 ## Status
 
-Planning phase to invite more students to join and to begin project planning, goals, and collaborative social structures.
+Planning phase to invite more students to join and to begin project planning, goals, and collaborative social structures. Creating incentives to create an inviting and collaborative and voluntary environment.
