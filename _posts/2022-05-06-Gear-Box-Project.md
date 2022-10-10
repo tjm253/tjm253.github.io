@@ -8,11 +8,10 @@ category: project
 ## Overview
 
 This group project was done under the direction of Dr. Hee-Seok Kim with Qier A, Pavel N, Ryan S, and Tayber M (myself).
-![PDF](GearBox_PG-1.pdf)
 
-
-
-[get the PDF](/assets/GearBox_PG-1.pdf)
+[get the PDF](/GearBox_PG-1.pdf)
+[get the PDF](GearBox_PG-1.pdf)
+[get the PDF](/_posts/GearBox_PG-1.pdf)
 
 ## Purpose
 
