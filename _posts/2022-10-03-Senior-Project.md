@@ -18,7 +18,7 @@ PHASE: ~~PRELIMINARY~~, FORMING, STORMING, NORMING, PERFORMING, ADJOURNING
 
 ~~PRELIMINARY PHASE: Assigned to 2023 Collegiate Design Series SAE Aero Design Competition.~~
 
-FORMING PHASE: Understanding the rules and objectives of the project. Lessening the shock of forming a group: negotiating differences, understanding the role which the team has to the university and what participating in the project will do for us.
+FORMING PHASE: Understanding the rules and objectives of the project. Lessening inner-group tension: negotiating differences, understanding the role which the team has to the university, to ourselves and others. Understanding what objectives, contraints and deadlines we have to form a timeline.
 
 ## Description
 
