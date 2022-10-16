@@ -17,4 +17,7 @@ To find information and to summarize the present research in heart valve preserv
 
 ~~Research phase~~
 
-Rough draft phase
+~~Rough draft phase~~
+
+Rough draft phase but has been back-burned for now. I have a senior project that is taking priority in tandem with my class load. (Updated 10/16/2022)
+
