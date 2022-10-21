@@ -12,11 +12,6 @@ Group Lead
 
 ## Status
 
-PHASE: ~~PRELIMINARY~~, FORMING, STORMING, NORMING, PERFORMING, ADJOURNING
-
-~~PRELIMINARY PHASE: Waiting for assignment~~
-
-~~PRELIMINARY PHASE: Assigned to 2023 Collegiate Design Series SAE Aero Design Competition.~~
 
 FORMING PHASE: Understanding the rules and objectives of the project. Lessening inner-group tension: negotiating differences, understanding the role which the team has to the university, to ourselves and others. Understanding what objectives, contraints and deadlines we have to form a timeline.
 
