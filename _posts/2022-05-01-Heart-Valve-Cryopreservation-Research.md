@@ -7,19 +7,18 @@ category: research
 
 ## Overview
 
-This research is overseen by Dr. Zhiquan Shu Mechanical Engineering professor at the University of Washington.
+This research is to find research present methods in the cryopreservation of human heart valves and to summarize findings. This project is overseen Dr. Zhiquan Shu ME professor at the University of Washington, Seattle. This research project is ongoing and is not complete. Literature regarding cryopreservation is complicated and expansive yet dense.
+
+Cryopreservation of human heart valves has much research, but the information is expansive. The goal of this project is to undertake that challenge to read and summarize findings within this field and to have a published paper under the University of Washington. Once completing my research in this area of knowledge regarding heart valves, I must evaluate my knowledge to create new questions to further cryopreservation. Communication with my advising professor and my colleagues could render new ideas and methods which heart cryopreservation advanced.
 
 ## Purpose
 
-To find information and to summarize the present research in heart valve preservation using cryopreservation to further the development of advanced methods in cryopreservation. Furthermore, methods of cryopreservation could be utilized in successfully in preserving other parts such as hearts.
+Heart valve cryopreservation is crucial in many ways. Preserving heart valves is essential for heart valve surgeries where valves could be malfunctioning or damaged. The biggest goal is to preserve the human heart which has not been done before. If the cryopreservation of the heart is successfully completed, thousands of lives could be saved.
 
 ## Status
 
-~~Research phase~~
+Rough Draft Phase: In rough draft phase. Currently, my workload is quite heavy. I will continue my research during winter break.
 
-~~Rough draft phase~~
 
-In rough draft phase but has been put to the side for now. I have a senior project that is taking priority in tandem with my class load. 
-
-(Updated 10/20/2022)
+(Updated 11/3/2022)
 
