@@ -1,5 +1,5 @@
 ---
-title:  "SAE Aero Design Competition"
+title:  "Senior Project | SAE Aero Design Competition"
 mathjax: true
 author: Tayber
 category: school-project
