@@ -17,7 +17,7 @@ In our machining class, we were given dimensions for the designed multitool. All
 
 ## Heat Treating
 
-The steel was elevated to its to its precipitation temperature to allow the steel to age harden. This heat treatment process allows the metal to relieve internal stress from machining within its metallic structure. The metal was wrapped in aluminum foil to impede air during heating which causes carbon to build on the surface of the metal.
+The steel was elevated to its to its precipitation temperature to allow the steel to age harden. This heat treatment process allows the metal to relieve internal stress from machining within its metallic structure. The metal was wrapped in aluminum foil to impede air infiltration during heating which causes carbon to build on the surface of the metal.
 
 ## Measure for Tolerances
 Following heat treatment and scrubbing off carbon build-up, precision measurement was used to find the dimensions of the completed multitool. Measuring the final results, gave me the opportunity to see if my part was within the desired tolerances. The drawings, the complete description of the manufacturing process, measurement of final product, and evaluation of tolerances can be found in this [final design report PDF](/multitool-TayberMcMullen-TME345.pdf). This report also contains the outcome for a plumb bob which I also created.
