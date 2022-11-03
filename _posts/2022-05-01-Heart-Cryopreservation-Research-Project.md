@@ -1,5 +1,5 @@
 ---
-title:  "Heart Cryopreservation Research"
+title:  "Heart Cryopreservation Research Project"
 mathjax: true
 author: Tayber
 category: research
