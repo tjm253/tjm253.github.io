@@ -11,7 +11,7 @@ Calculations gear design and force analysis
 
 ## Overview
 
-This project was to create a 20:1 gearbox for a theoretical scooter company. The gearbox must be valuable to the customer.
+This project was to create a 20:1 gearbox for a theoretical scooter company. 
 ## Design Process
 
 We were given the input torque and speed and the desired gear ratio of the gear box. The explicit constraints were not given such as the safety factors were not given and were to be inferred. The objective was to create a relatively small gearbox so that the weight and the size does not impede the use of the scooter. We wanted to have low resistance from friction. To allow for safe operation of the scooter, our team decided to have a 95% reliability factor and a factor of safety of 1.5. Using one of the standard gear steels, S45C steel, we found a safe, reliable, economical, and compact design. The final overall design can be found here [20:1 gearbox](/GearBox_PG-1.pdf). 
