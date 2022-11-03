@@ -1,5 +1,5 @@
 ---
-title:  "Python Project"
+title:  "Python Euler Project"
 mathjax: true
 author: Tayber
 category: python
