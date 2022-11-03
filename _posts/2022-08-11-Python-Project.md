@@ -7,7 +7,7 @@ category: python
 
 ## Overview
 
-This project is to develop my skills in Python by solving problem from [Project Euler.com](https://projecteuler.net/archives). All files can be found on my [github repository](https://github.com/tjm253/projecteuler). Python is an excellent high-level programming language which can be used in many applications. Being free, open-source and with an abundance of free packages, Python allows me to accomplish mathematical operations without being in a curated but constrictive programming environment.
+This project is to develop my skills in Python by solving problem from [Project Euler.com](https://projecteuler.net/archives). All files can be found on my [github repository](https://github.com/tjm253/projecteuler). Python is an excellent high-level programming language which can be used in many applications. Being free, open-source and with an abundance of free packages, Python lends itself to many applications such as data analysis, machine learning, numerical analysis, and scripting.
 
 ## Project Summary
 
